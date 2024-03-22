@@ -16,3 +16,8 @@ var-log/
 
 # WIP/test stuff
 doco.yml
+
+# custom environments
+.netvenv
+venv
+.venv
